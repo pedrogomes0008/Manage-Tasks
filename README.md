@@ -15,7 +15,9 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
 View of the application running:
 
-![Final Result](src/assets/manage-tasks.png)
+<div align="center">
+  <img src="src/assets/manage-tasks.png" alt="Final Result" height="500" width="500" />
+</div>
 
 ## How to Run the project
 
@@ -35,9 +37,11 @@ Follow the next steps to run Manage Tasks on your machine:
    cd Manage-Tasks
 
 2. **Install Dependecies:**
-
+   
+   ```sh
    npm install
 
 3. **Run the Project:**
-
+   
+   ```sh
    npm start
