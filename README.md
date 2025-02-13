@@ -1,27 +1,43 @@
-# Essentials
+# Manage Tasks
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+## General View
 
-## Development server
+**Manage Tasks** is a small project in Angular to manage a list of tasks for different users. You can add a new task and complete a task. This project was develop while learning Angular in the following course:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
-## Code scaffolding
+## Funcionalacties
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Add a Task:** Add a new task to the selected user.
+- **Complete a Task:** Completes a specific task on the selected user.
 
-## Build
+## Final Result
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+View of the application running:
 
-## Running unit tests
+![Final Result](src/assets/manage-tasks.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to Run the project
 
-## Running end-to-end tests
+Follow the next steps to run Manage Tasks on your machine:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Prerequisites
 
-## Further help
+- [Node.js](https://nodejs.org/) (version 20.13.1 or higher)
+- [Angular CLI](https://angular.io/cli) (version 18 or higher)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Steps
+
+1. **Clone the Repository:**
+
+   ```sh
+   git clone https://github.com/pedrogomes0008/Manage-Tasks.git
+   cd Manage-Tasks
+
+2. **Install Dependecies:**
+
+   npm install
+
+3. **Run the Project:**
+
+   npm start
