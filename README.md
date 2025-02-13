@@ -6,7 +6,7 @@
 
 https://www.udemy.com/course/the-complete-guide-to-angular-2/
 
-## Funcionalacties
+## Functionalities
 
 - **Add a Task:** Add a new task to the selected user.
 - **Complete a Task:** Completes a specific task on the selected user.
